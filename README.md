@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="#work"><img src="assets/nav-work.svg" width="160" height="44" alt="精选作品" /></a>
-  <a href="#open-source"><img src="assets/nav-oss.svg" width="160" height="44" alt="开源贡献" /></a>
-  <a href="#lab"><img src="assets/nav-lab.svg" width="160" height="44" alt="实验与小工具" /></a>
+  <a href="#selected-work--精选作品"><img src="assets/nav-work.svg" width="160" height="44" alt="精选作品" /></a>
+  <a href="#open-source-contributions--开源贡献"><img src="assets/nav-oss.svg" width="160" height="44" alt="开源贡献" /></a>
+  <a href="#side-projects--实验与小工具"><img src="assets/nav-lab.svg" width="160" height="44" alt="实验与小工具" /></a>
 </p>
 
 # Hey, I'm metro.
@@ -151,4 +151,4 @@ Codex 设计类 Skill 自动编排与安装套件，把零散的设计能力组�
   <sub>metro loe · <a href="https://github.com/chongchonghaoman">@chongchonghaoman</a></sub>
 </p>
 
-[↑ 返回顶部](#top) · [浏览全部仓库 ↗](https://github.com/chongchonghaoman?tab=repositories)
+[↑ 返回简介](#hey-im-metro) · [浏览全部仓库 ↗](https://github.com/chongchonghaoman?tab=repositories)
