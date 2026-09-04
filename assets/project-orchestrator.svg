@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-labelledby="t"><title id="t">Design Orchestrator — design-auto-orchestrator-kit for Codex</title>
+<rect width="1000" height="220" rx="18" fill="#11151d"/><path d="M744 0V220" stroke="#303b4e"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="40" y="90" fill="#f2f4f7" font-size="48" font-weight="700" letter-spacing="-1">Design Orchestrator</text><text x="40" y="143" fill="#b8c5d9" font-size="28">The right skill for the task</text><text x="40" y="186" fill="#d9a8c7" font-size="20">DESIGN + CODEX</text><text x="945" y="57" fill="#d9a8c7" font-size="32">↗</text></g>
+<path d="M789 115H846Q865 115 865 94V68H909M865 115H919M865 115V150Q865 169 884 169H909" fill="none" stroke="#d9a8c7" stroke-width="5"/><g fill="#11151d" stroke="#d9a8c7" stroke-width="4"><circle cx="797" cy="115" r="10"/><circle cx="919" cy="68" r="10"/><circle cx="919" cy="115" r="10"/><circle cx="919" cy="169" r="10"/></g>
+</svg>

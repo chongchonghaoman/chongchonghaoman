@@ -24,9 +24,7 @@ I explore the space between **AI workflows, product thinking, and visual craft**
 
 ## Selected work · 精选作品
 
-### [ViralX ↗](https://github.com/chongchonghaoman/ViralX)
-
-<p align="center"><a href="https://github.com/chongchonghaoman/ViralX"><img src="https://raw.githubusercontent.com/chongchonghaoman/ViralX/HEAD/static/assets/viralx-signal-orbit-1024.webp" width="360" alt="ViralX 项目主视觉" /></a></p>
+<a href="https://github.com/chongchonghaoman/ViralX"><img src="assets/project-viralx.svg" width="100%" alt="ViralX — 短视频证据工作台，查看项目" /></a>
 
 短视频证据工作台：从原片采集到带时间引用的分析与复刻脚本。 **[★ 7](https://github.com/chongchonghaoman/ViralX/stargazers)**
 
@@ -35,13 +33,15 @@ I explore the space between **AI workflows, product thinking, and visual craft**
 
 面向内容创作者与电商运营，提供 Web 与 Agent Skill 两种入口。关注原片核验、结论引用和失败恢复；不把分析报告当作流量保证。
 
+<p align="center"><img src="https://raw.githubusercontent.com/chongchonghaoman/ViralX/HEAD/static/assets/viralx-signal-orbit-1024.webp" width="360" alt="ViralX 原项目主视觉" /></p>
+
 ![ViralX 真实项目界面](https://raw.githubusercontent.com/chongchonghaoman/ViralX/HEAD/docs/assets/viralx-homepage.png)
 
 [使用说明 ↗](https://github.com/chongchonghaoman/ViralX) · <sub>Star 快照：2026-09-04</sub>
 
 </details>
 
-### [vibe-web-auditor ↗](https://github.com/chongchonghaoman/vibe-web-auditor)
+<a href="https://github.com/chongchonghaoman/vibe-web-auditor"><img src="assets/project-auditor.svg" width="100%" alt="vibe-web-auditor — 基于浏览器证据的网站审查，查看项目" /></a>
 
 基于真实浏览器证据，审查网站的界面、文案与页面逻辑。
 
@@ -52,7 +52,7 @@ I explore the space between **AI workflows, product thinking, and visual craft**
 
 </details>
 
-### [design-auto-orchestrator-kit ↗](https://github.com/chongchonghaoman/design-auto-orchestrator-kit)
+<a href="https://github.com/chongchonghaoman/design-auto-orchestrator-kit"><img src="assets/project-orchestrator.svg" width="100%" alt="Design Orchestrator — Codex 设计 Skill 编排套件，查看项目" /></a>
 
 为 Codex 设计任务选择合适的 Skill，并组织安装与调用流程。
 
@@ -84,8 +84,13 @@ I explore the space between **AI workflows, product thinking, and visual craft**
 
 ## Side projects · 实验与小工具
 
-- **[ValorantStretch](https://github.com/chongchonghaoman/ValorantStretch)** — VALORANT 真拉伸与退出恢复工具。
-- **[DesignMirror](https://github.com/chongchonghaoman/DesignMirror)** — 从网页提取设计 token。
+<a href="https://github.com/chongchonghaoman/ValorantStretch"><img src="assets/project-valorant.svg" width="100%" alt="ValorantStretch — VALORANT 真拉伸与退出恢复工具，查看项目" /></a>
+
+VALORANT 真拉伸与退出恢复工具。
+
+<a href="https://github.com/chongchonghaoman/DesignMirror"><img src="assets/project-mirror.svg" width="100%" alt="DesignMirror — 从网页提取设计 token，查看项目" /></a>
+
+从网页提取设计 token。
 
 <details>
 <summary><b>A few things I care about</b></summary>
