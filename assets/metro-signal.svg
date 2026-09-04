@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">metro loe — Ideas meet working tools.</title>
+  <desc id="desc">A graphite and chartreuse transit-map banner. Three animated routes connect product, design and AI. Motion is decorative and stops when reduced motion is requested.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#282c35"/></pattern>
+    <style>
+      :root{--paper:#11151d;--ink:#f2f4f7;--muted:#9ca8bb;--line:#303b4e;--green:#d7f970;--blue:#80bcff;--pink:#d9a8c7}
+      text{font-family:Arial,Helvetica,sans-serif;fill:var(--ink)}
+      .mono{font-family:Consolas,'Liberation Mono',monospace;letter-spacing:2px}
+      .muted{fill:var(--muted)}
+      .route{fill:none;stroke-width:9;stroke-linecap:round;stroke-linejoin:round}
+      .train{fill:none;stroke:var(--ink);stroke-width:4;stroke-linecap:round;stroke-dasharray:14 986;animation:travel 12s linear infinite}
+      .train.two{animation-duration:15s;animation-delay:-5s}
+      .train.three{animation-duration:18s;animation-delay:-8s}
+      @keyframes travel{from{stroke-dashoffset:1000}to{stroke-dashoffset:0}}
+      @media(prefers-reduced-motion:reduce){.train{animation:none;stroke-dasharray:none;opacity:0}}
+    </style>
+  </defs>
+  <rect width="1200" height="520" rx="20" fill="var(--paper)"/>
+  <rect width="1200" height="520" rx="20" fill="url(#grid)"/>
+  <path d="M48 64H1152" stroke="var(--line)"/>
+  <circle cx="56" cy="37" r="5" fill="var(--green)"/>
+  <text x="73" y="42" class="mono muted" font-size="13">METRO / PERSONAL PROJECTS</text>
+  <text x="1152" y="42" class="mono muted" text-anchor="end" font-size="13">IDEAS IN TRANSIT</text>
+  <text x="48" y="188" font-size="100" font-weight="800" letter-spacing="-6">metro loe<tspan fill="var(--green)">.</tspan></text>
+  <text x="52" y="249" font-size="34" letter-spacing="-1">Ideas meet</text>
+  <text x="52" y="292" font-size="34" letter-spacing="-1">working tools.</text>
+  <text x="52" y="356" class="mono muted" font-size="14">PRODUCT THINKING</text>
+  <text x="52" y="382" class="mono muted" font-size="14">VISUAL CRAFT / AI WORKFLOWS</text>
+  <g class="route">
+    <path d="M620 119H722Q748 119 768 139L1032 403Q1051 422 1080 422H1208" stroke="var(--blue)"/>
+    <path d="M680 521V417Q680 397 700 377L940 137Q960 117 985 117H1208" stroke="var(--green)"/>
+    <path d="M839 76V207Q839 231 860 252L961 353Q982 374 1008 374H1208" stroke="var(--pink)"/>
+  </g>
+  <path class="train" pathLength="1000" d="M620 119H722Q748 119 768 139L1032 403Q1051 422 1080 422H1208"/>
+  <path class="train two" pathLength="1000" d="M680 521V417Q680 397 700 377L940 137Q960 117 985 117H1208"/>
+  <path class="train three" pathLength="1000" d="M839 76V207Q839 231 860 252L961 353Q982 374 1008 374H1208"/>
+  <g fill="var(--paper)" stroke="var(--ink)" stroke-width="5">
+    <circle cx="720" cy="119" r="10"/><circle cx="839" cy="210" r="16"/><circle cx="951" cy="322" r="10"/>
+    <circle cx="728" cy="349" r="10"/><circle cx="1067" cy="117" r="10"/><circle cx="1081" cy="374" r="10"/>
+  </g>
+  <g class="mono" font-size="13" font-weight="700">
+    <text x="652" y="94" fill="var(--blue)">PRODUCT</text>
+    <text x="1082" y="95" fill="var(--green)">BUILD</text>
+    <text x="1086" y="350" fill="var(--pink)">DESIGN</text>
+    <text x="672" y="321" fill="var(--green)">EXPLORE</text>
+  </g>
+  <rect x="866" y="176" width="108" height="28" rx="14" fill="var(--ink)"/>
+  <text x="920" y="195" text-anchor="middle" font-size="12" font-weight="700" style="fill:var(--paper)">YOU ARE HERE</text>
+  <path d="M48 459H574" stroke="var(--line)"/>
+  <text x="52" y="491" class="mono muted" font-size="12">DIFFERENT LINES. SAME CURIOSITY.</text>
+</svg>

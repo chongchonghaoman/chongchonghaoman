@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="t d">
+<title id="t">Ragas — 15,609 upstream repository stars; PR #2990 submitted, not merged</title>
+<desc id="d">Upstream repository popularity and contribution status are separate. Verified September 4, 2026.</desc>
+<rect width="1200" height="400" rx="20" fill="#11151d"/>
+<path d="M735 40V360" stroke="#303b4e"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="48" y="62" fill="#9ca8bb" font-size="18" letter-spacing="3">OPEN-SOURCE CONTRIBUTION</text>
+<text x="46" y="159" fill="#f2f4f7" font-size="76" font-weight="700" letter-spacing="-3">Ragas<tspan fill="#d7f970"> ↗</tspan></text>
+<text x="48" y="210" fill="#b8c5d9" font-size="24">Making evaluation coverage visible.</text>
+<rect x="48" y="254" width="246" height="42" rx="21" fill="#233126"/>
+<text x="171" y="282" text-anchor="middle" fill="#d7f970" font-size="19" font-weight="700">PR #2990 · OPEN</text>
+<text x="48" y="343" fill="#9ca8bb" font-size="18">Documentation + tests · Not merged</text>
+<path d="m813 85 6 12 13 2-10 9 2 13-11-6-12 6 3-13-10-9 13-2z" fill="none" stroke="#d7f970" stroke-width="2"/>
+<text x="846" y="110" fill="#9ca8bb" font-size="17">UPSTREAM REPO STARS</text>
+<text x="795" y="203" fill="#d7f970" font-size="76" font-weight="700" letter-spacing="-4">15,609</text>
+<text x="799" y="248" fill="#b8c5d9" font-size="20">vibrantlabsai / ragas</text>
+<text x="799" y="343" fill="#9ca8bb" font-size="17">Verified 2026-09-04</text>
+</g></svg>
